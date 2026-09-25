@@ -1,0 +1,9 @@
+[submodule "cloudmart-product-service"]
+	path = cloudmart-product-service
+	url = https://github.com/vihanapathum/cloudmart-product-service.git
+[submodule "cloudmart-order-service"]
+	path = cloudmart-order-service
+	url = https://github.com/vihanapathum/cloudmart-order-service.git
+[submodule "cloudmart-user-service"]
+	path = cloudmart-user-service
+	url = https://github.com/vihanapathum/cloudmart-user-service.git
